@@ -4,10 +4,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0felipesousa&show_icons=true&theme=dracula)](https://github.com/0felipesousa)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0felipesousa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-### Principais Linguagens
+### Principais Linguagens e Frameworks
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,java" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,django,nodejs" />
   </a>
 </p>
 
