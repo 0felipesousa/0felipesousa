@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá Mundo 👋
+## Eu sou Felipe De Sousa!
 
-<!--
-**0felipesousa/0felipesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0felipesousa&show_icons=true&theme=dracula)](https://github.com/0felipesousa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0felipesousa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+### Principais Linguagens
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,java" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+
+### Ferramentas 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,npm," />
+  </a>
+</p>
+
+ ##
+
+### Databases
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  </a>
+</p>
+  
+ ##
+
+<div>
+  <a href="linkedin.com/in/0felipesousa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+  ##
+
+
+
